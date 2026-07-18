@@ -1,0 +1,6 @@
+{
+  "name": "Venite University",
+  "description": "Official website of Venite University, located in Iloro-Ekiti, Ekiti State, Nigeria. Shaping leaders through character, innovation, and academic excellence.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
